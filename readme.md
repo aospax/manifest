@@ -34,7 +34,7 @@ $ cd WORKSPACE
 
 # Install Repo in the created directory
 # Use a real name/email combination, if you intend to submit patches
-$ repo init -u https://github.com/AOSPA/manifest -b kitkat
+$ repo init -u https://github.com/aospax/manifest -b kitkat
 ```
 
 ### Downloading the source tree ###
